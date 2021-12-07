@@ -52,3 +52,6 @@ a:visited {
   background-color: transparent;
   text-decoration: underline;
 }
+.nIndent {
+	text-indent: 50px;
+}
