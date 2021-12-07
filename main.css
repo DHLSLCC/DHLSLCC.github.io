@@ -31,9 +31,9 @@ html {
 	text-align:center;
 }
 .all {
-	max-width:10.5in;
+	max-width:10in;
 	margin: auto;
-	  box-shadow: 0 0 3px 2px grey;
+	box-shadow: 0 0 3px 2px grey;
 }
 .pageCont {
 	background-color:#f1f1f1;
@@ -54,4 +54,15 @@ a:visited {
 }
 .nIndent {
 	text-indent: 50px;
+}
+.contentBox {
+	min-height: 50px;
+	border-style:solid;
+	border-color:#404040;
+	border-width:2px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-top: 5px;
+	padding-bottom:5px;
+	margin-bottom:5px;
 }
