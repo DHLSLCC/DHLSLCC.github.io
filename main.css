@@ -1,3 +1,54 @@
 html {
-  font-family:arial;
-  background-color:#000000
+	font-family:arial;
+	background-color:#000000;
+	color:#ffffff
+}
+.navBar {
+	display:flex;
+}
+.navButt {
+	flex:1;
+	width:100%;
+	background-color:#444444;
+	border-style:solid;
+	border-color:#444444;
+	cursor:pointer;
+	color:#eeeeee;
+	font-weight: bold;
+	font-size: 20px;
+	transition-duration:.3s;
+}
+.navButt:hover {
+	background-color:#888888;
+}
+.navAll {
+	background-color:#444444;
+	padding-top:5px;
+}
+.name {
+	font-size:40px;
+	font-weight:bold;
+	text-align:center;
+}
+.all {
+	max-width:10.5in;
+	margin: auto;
+	  box-shadow: 0 0 3px 2px grey;
+}
+.pageCont {
+	background-color:#f1f1f1;
+	color:#404040;
+	padding:.5in;
+	font-size:17px;
+	line-height: 1.6;
+}
+a:link {
+  color: #8888ff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited {
+  color: #8888ff;
+  background-color: transparent;
+  text-decoration: underline;
+}
