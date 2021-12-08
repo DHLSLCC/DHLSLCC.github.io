@@ -53,7 +53,7 @@ a:visited {
   text-decoration: underline;
 }
 .nIndent {
-	text-indent: 50px;
+	text-indent: 45px;
 }
 .contentBox {
 	min-height: 50px;
@@ -65,4 +65,8 @@ a:visited {
 	padding-top: 5px;
 	padding-bottom:5px;
 	margin-bottom:5px;
+}
+.blockQ {
+	padding-left:45px;
+	padding-right:45px;
 }
