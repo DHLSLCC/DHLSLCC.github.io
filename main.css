@@ -43,20 +43,20 @@ html {
 	line-height: 1.6;
 }
 a:link {
-  color: #8888ff;
-  background-color: transparent;
-  text-decoration: underline;
+	color: #8888ff;
+	background-color: transparent;
+	text-decoration: underline;
 }
 a:visited {
-  color: #8888ff;
-  background-color: transparent;
-  text-decoration: underline;
+	color: #8888ff;
+	background-color: transparent;
+	text-decoration: underline;
 }
 .nIndent {
 	text-indent: 45px;
 }
 .contentBox {
-	min-height: 50px;
+	min-height: 20px;
 	border-style:solid;
 	border-color:#404040;
 	border-width:2px;
